@@ -8,4 +8,4 @@
 4. Add the markdown from exercise 01 to this folder
 5. Add the github repository as the remote origin
 6. Push the markdown to the remote repository
-7. Link to the repo below:
+7. Link to the repo below: [click here!](https://github.com/KaiWelu/github-practice)
