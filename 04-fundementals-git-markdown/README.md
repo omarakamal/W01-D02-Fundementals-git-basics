@@ -15,3 +15,4 @@ Create a git-commands.md file and write in it what each of these commands does:
 9. git remote -v
 10. git reset
 11. git log
+
