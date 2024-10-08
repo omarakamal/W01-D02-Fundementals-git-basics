@@ -4,7 +4,7 @@
 
 Create a git-commands.md file and write in it what each of these commands does:
 
-1. Git init
+1. git init
 2. git clone
 3. git add .
 4. git commit -m “message"
@@ -15,4 +15,3 @@ Create a git-commands.md file and write in it what each of these commands does:
 9. git remote -v
 10. git reset
 11. git log
-
