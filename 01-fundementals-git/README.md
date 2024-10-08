@@ -16,3 +16,6 @@
 5. Change the markdown file with more technologies you would like to learn
 6. Push the updated code to github
 7. paste the link to the repo below:
+8. Changed something feature added line 8
+9. Third line but this is from local
+9. Kept this from the remote but its my choice
